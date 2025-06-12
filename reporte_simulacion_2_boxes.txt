@@ -1,0 +1,30 @@
+REPORTE DETALLADO DE SIMULACIÓN
+==================================================
+
+Configuración:
+- Número de boxes: 2
+- Duración: 4 horas (08:00 - 12:00)
+- Probabilidad de llegada: 0.006944444444444444
+- Tiempo máximo de espera: 30 minutos
+
+Resultados:
+--------------------
+Clientes ingresados: 103
+Clientes atendidos: 53
+Clientes abandonaron: 50
+Costo total: $502,000
+
+Tiempos de atención:
+--------------------
+Tiempo mínimo de atención: 1 min 0 seg
+Tiempo máximo de atención: 19 min 40 seg
+
+Tiempos de espera:
+--------------------
+Tiempo mínimo de espera: 0 min 0 seg
+Tiempo máximo de espera: 30 min 0 seg
+
+Eficiencia del sistema:
+--------------------
+Tasa de atención: 51.5%
+Tasa de abandono: 48.5%
