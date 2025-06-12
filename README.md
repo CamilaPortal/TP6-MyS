@@ -1,5 +1,9 @@
 # TP 6: Simulador de Sistema de Atención al Público
 
+### Nombre: Camila Portal
+### Legajo: 61213
+### Carrera: Ing. en informática 
+
 ## Descripción
 Simulador de un sistema de atención al público que modela el funcionamiento de boxes de atención (cajas de supermercado, bancos, etc.) con visualización gráfica animada.
 
